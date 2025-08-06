@@ -1,30 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: August 03, 2025
+#### Matplotlib
+**Today's Progress**: Reading Zen lectures about good habits and starting using Matplotlib.
+**Thoughts:** Reading "How to Get a Developer Job in Less Than a Year" by A. Kallaway gave me a clear idea of how this has to be done. It was really encourage. On the other hand, I struggled whit using ticks for plots, but reading documentation help me to figure it out. 
+**Link to work:** [Matplotlib excersices](https://github.com/Caavlier/Btp-Data-Science/blob/main/Matplotlib.ipynb)
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 2: August 04, 2025 
+#### Probability
+**Today's Progress**: Lectures on basic probability and applied concepts into Monte Carlo simulations using numpy, random and fuction choice.
+**Thoughts**: My first approach to solve this problem was using numpy and 2D arrays. After implementing my code I received a tip: Use function '.choice'.  This make all so easy!
+**Link(s) to work**: [Dice and coloured balls](https://github.com/Caavlier/Btp-Data-Science/blob/main/Complementary%20exercises/Probability_Excersices.ipynb)
